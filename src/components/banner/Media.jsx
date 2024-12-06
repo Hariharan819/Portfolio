@@ -15,7 +15,6 @@ const Media = () => {
             </span>
             <span className="bannerIcon">
               <a href="https://www.linkedin.com/in/hariharan34/"> <FaLinkedinIn /></a>
-             
             </span>
           </div>
         </div>
