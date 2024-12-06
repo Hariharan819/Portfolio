@@ -10,11 +10,11 @@ const Education = () => {
       className="w-full flex flex-col lgl:flex-row gap-10 lgl:gap-20"
     >
       <div>
-        <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
+        <div className="py-6 lgl:py-10 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">2016 - 2024</p>
           <h2 className="text-3xl md:text-4xl font-bold">Education Quality</h2>
         </div>
-        <div className="mt-6 lgl:mt-14 w-full h-[900px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-6 lgl:mt-14 w-full lgl:w-3/4 h-[900px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="BE in , Electronics and Communication Engineering"
             subTitle="Kongunadu college of Engineering & Technology(2020 - 2024)"

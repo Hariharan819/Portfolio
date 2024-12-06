@@ -12,7 +12,7 @@ const ProjectsCard = ({ title, des, src }) => {
           alt="src"
         />
       </div>
-      <div className="w-full mt-5 flex flex-col  gap-6">
+      <div className="w-full  flex flex-col  gap-6">
         <div>
           <div className="flex items-center justify-between">
             <h3 className="text-base uppercase text-designColor font-normal">
@@ -27,10 +27,10 @@ const ProjectsCard = ({ title, des, src }) => {
               </span>
             </div>
           </div>
-          <p className="text-sm tracking-wide mt-3 hover:text-gray-100 duration-300">
+          <p className="text-sm tracking-tight text-justify  space-x-96 mt-3  hover:text-gray-100 duration-300">
             {des}
           </p>
-        </div>
+        </div> 
       </div>
     </div>
   );
