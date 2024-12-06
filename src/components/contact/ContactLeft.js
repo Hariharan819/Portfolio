@@ -30,10 +30,10 @@ const ContactLeft = () => {
         <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
         <div className="flex gap-4">
           <span className="bannerIcon">
-            <FaGithub />
+          <a href="https://github.com/Hariharan819"><FaGithub /></a>
           </span>
           <span className="bannerIcon">
-            <FaLinkedinIn />
+          <a href="https://www.linkedin.com/in/hariharan34/"> <FaLinkedinIn /></a>
           </span>
         </div>
       </div>

@@ -14,12 +14,12 @@ const Experience = () => {
           <p className="text-sm text-designColor tracking-[4px]">2010 - 2022</p>
           <h2 className="text-4xl font-bold">Job Experience</h2>
         </div>
-        <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        <div className="mt-10 w-full h-2/2 border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Front-end Developer"
-            subTitle="Nike - (2020 - 2011)"
-            result="Oman"
-            des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
+            title="Python Full Stack"
+            subTitle="Coapps - (Jan 2024 - Mar 2024)"
+            result="Chennai"
+            des="Contributed to the development of an ELMS-based website, focusing on creating and maintaining responsive and reusable components.Managed and optimized state variables to ensure seamless data flow across the application.Utilized Redux for efficient state management, enhancing the application's scalability and performance.Collaborated with the development team to ensure alignment with project requirements and deadlines."
           />
         </div>
       </div>
